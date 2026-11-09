@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <p align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,js,ts,html,css,react,nginx,docker,ubuntu,github,vscode,unity,unreal,blender,discord&perline=8" />
+    <img src="https://skillicons.dev/icons?i=go,js,ts,html,css,react,nginx,docker,py,ubuntu,github,vscode,unity,unreal,blender,discord&perline=8" />
   </a>
 </p>
