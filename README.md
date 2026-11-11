@@ -14,10 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## Study now frontend
 <p align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nginx,docker,py,go,ubuntu,github,vscode,unity,unreal,blender,discord&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,next,docker&perline=8" />
+    <p align="center">
   </a>
 </p>
+
+## Use Backend with AI
+<p align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nginx,py,go&perline=8" />
+  </a>
+</p>
+
+## Enviroment
+<p align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,github,vscode,unity,unreal,blender,discord&perline=8" />
+  </a>
+</p>
+
