@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 ## Environment
 <p align="center">
   <a href="https://skill-icons-v2.vercel.app/">
-    <img src="https://skill-icons-v2.vercel.app/api/icons?i=ubuntu,openstack,github,vscode,claude,githubcopilot,gemini,huggingface,ollama,unity,unrealengine,blender,discord&perline=7" />
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=ubuntu,github,vscode,claude,githubcopilot,gemini,huggingface,ollama,unity,unrealengine,blender,discord&perline=7" />
   </a>
 </p>
